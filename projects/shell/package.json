@@ -1,0 +1,12 @@
+{
+  "name": "@namespace/payments",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "12.0.0-next.6",
+    "@angular/router": "12.0.0-next.6",
+    "@angular/core": "12.0.0-next.6"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
